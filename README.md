@@ -5,6 +5,7 @@ A list of essentials to test on work machines
 - dhcp client
 - vim
 - git
+- make
 - nasm
 - gcc/ld
 - python
