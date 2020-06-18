@@ -7,6 +7,7 @@ A list of essentials to test on work machines
 - git
 - make
 - nasm
+- qemu
 - gcc/ld
 - python
 - dotnet
@@ -19,3 +20,4 @@ A list of essentials to test on work machines
 - VS Code
 - Chrome
 - Firefox
+- Edge
